@@ -19,7 +19,7 @@ The SVG-Logo-Generator creates a 300x200px, three letter logo, from user input. 
 
 **Sample Output**
 
-![Sample-Logo-Image](lib\images\sample-logo-image.PNG "Sample logo output")
+![Sample-Logo-Image](.\lib\images\sample-logo-image.PNG "Sample logo output")
 
 ## Installation
 To run this app you need to install node.js, inquirer module. Clone or copy code from the github repo to your local directory and run the program by typing "node index.js" into the terminal. 
