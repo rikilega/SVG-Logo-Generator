@@ -13,6 +13,7 @@
 * [Contributing](#contributing)                     
 * [Tests](#tests)
 * [Questions](#questions)
+* [Code/Links](#code/links)
 
 ## Description 
 The SVG-Logo-Generator creates a 300x200px, three letter logo, from user input. It is created from the terminal using node. 
@@ -25,7 +26,7 @@ The SVG-Logo-Generator creates a 300x200px, three letter logo, from user input. 
 To run this app you need to install node.js, inquirer module. Clone or copy code from the github repo to your local directory and run the program by typing "node index.js" into the terminal. 
 
 ## Usage 
-After following the installation instruction, run the program by typing "node index.js" into your terminal. The program will then take you through a series of prompts. After answering all the questions the SVG logo will be saved to the current directory.  
+After following the installation instruction, run the program by typing "node index.js" into your terminal. The program will then take you through a series of prompts. After answering all the questions the SVG logo will be saved to the current directory.  Click [here](https://drive.google.com/file/d/1_kZouAjrR9B_cf6Q6cXsbdlrgemQwzZg/view) to view a video walkthrough of the app usage.
 
 ## License 
 This project is licensed under the Creative Commons license.
@@ -42,4 +43,7 @@ If everything is installed correctly, you should be able to run the application 
  Yes you can.
 
 If you have any additional questions, you can reach me through my github: [@rikilega](github.com/rikilega) or my email: rosedoland33@yahoo.com
+
+## Code/Links
+The index.js file can be found [here](https://github.com/rikilega/SVG-Logo-Generator/blob/main/index.js). The shapes.js code is [here](https://github.com/rikilega/SVG-Logo-Generator/blob/main/lib/shapes.js) and the shapes.test.js code is [here.](https://github.com/rikilega/SVG-Logo-Generator/blob/main/lib/shapes.test.js)
     
